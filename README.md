@@ -1,3 +1,3 @@
 # demo-class
-first Github repo
+first Github repo<br>
 Author - Ayush Hood
